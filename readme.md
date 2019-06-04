@@ -1,4 +1,4 @@
-# install GIT
+# Install GIT
 # Download Visual Studio Code
 We are going to have to have tooling conversations, and an explanation of Integtrated Development Environment is something that we'll have to have too; but for now the folks over at Microsoft have provide a very slick, very small piece of tooling that will run _everywhere_.  So we don't have to spend days working out the issues of whether your particular machine has everything it needs.
 
@@ -17,7 +17,7 @@ We're going to add a couple of simple things here, and as we go we'll try and go
 ## Index.html
 A quick word about "Hello World".  Every "start here" example you've seen or lkely will ever see starts with the Console/Std Out/Print Ln statment "Hello World".  We're not doing that.  Instead, because we're headed "down the rabbit hole" we can go two ways _Alice in Wonderland_ proper, or the red pill/blue pill trope.  
 
-Lets go Red Pill, Blue pill.  So do that now on your newly created index.html.
+Lets go Red Pill, Blue pill.  So do that now on your newly created index.html.  Simply write the two phrases Red Pill, Blue pill on your blank canvas.
 
 NOW lets save our work....
 
